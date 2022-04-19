@@ -12,3 +12,5 @@ https://lernanino.github.io//run-buddy/
 
 ##contribution
 Made with ❤️ by Jack Nowaczewski
+
+### ©️2019 Run Buddy, Inc 
